@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saketh-22
 - 👀 I’m interested in Programming, Tech, Networks ...
-- 🌱 I’m currently learning ...
+
 
 
 <!---
