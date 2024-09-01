@@ -11,7 +11,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=saketh-22&icon=8&color=9)](https://visitcount.itsvg.in)
-
